@@ -19,7 +19,7 @@ i'm 19 and my dream is backend web developer, i'm learning JavaScript and JavaSp
 
 ## My Status 🎁
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BackdevHong&count_private=true&theme=react&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BackdevHong&langs_count=5&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackdevHong&layout=compact)](https://github.com/BackdevHong)
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BackdevHong)](https://github.com/BackdevHong/github-contribution-stats/)
 <!---
 dlstjdghd/dlstjdghd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

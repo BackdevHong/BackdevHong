@@ -27,7 +27,9 @@ i'm 19 and my dream is backend web developer, i'm learning JavaScript and JavaSp
 [![trophy](https://github-profile-trophy.vercel.app/?username=backdevhong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Information
-<img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white("https://programmers.co.kr/pr/ghddls0704")"/>
+<a href="https://programmers.co.kr/pr/ghddls0704">
+  <img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/>
+</a>
 
 ## My Commit 🙌
 [![홍인성의 github 활동 그래프 ](https://activity-graph.herokuapp.com/graph?username=BackdevHong&theme=react-dark)](https://github.com/BackdevHong)

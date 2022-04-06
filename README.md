@@ -13,6 +13,7 @@ i'm 19 and my dream is backend web developer, i'm learning JavaScript and JavaSp
 - [NaverBlog](https://blog.naver.com/backdev_hong)
 - [Twitch](https://twitch.tv/ghddls7799)
 - [instagram](https://www.instagram.com/ghddlstjd0704/)
+- [Vlog](https://velog.io/@fulldev_hong/)
 
 ## My RoadMap 👍
 - [RoadMap](https://github.com/BackdevHong/RoadMapToDo)

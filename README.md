@@ -3,7 +3,7 @@
 i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Nodejs, Php, Vue.js<br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBackdevHong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-- 👀 I’m interested in Back-End Development
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Vue, React, PHP
 - 🖨️ I'm working on YHSbearing IT Department ( Yhsbearing.com )
 - 📫 How to reach me Discord : 뙈지몬#1306

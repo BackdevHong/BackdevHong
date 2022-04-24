@@ -40,7 +40,7 @@ i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Node
 
 ## My Coding Time
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fulldevhong">
+  <img src="https://wakatime.com/dashboard#bb-1650802437669-clip-grid">
 </div>
 <!---
 dlstjdghd/dlstjdghd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

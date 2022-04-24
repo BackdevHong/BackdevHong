@@ -38,10 +38,6 @@ i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Node
 ## My Commit 🙌
 [![홍인성의 github 활동 그래프 ](https://activity-graph.herokuapp.com/graph?username=BackdevHong&theme=react-dark)](https://github.com/BackdevHong)
 
-## My Coding Time
-<div align="center">
-  <img src="https://wakatime.com/dashboard#bb-1650802437669-clip-grid">
-</div>
 <!---
 dlstjdghd/dlstjdghd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

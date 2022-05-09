@@ -41,11 +41,11 @@ i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Node
 <a href="https://programmers.co.kr/pr/ghddls0704">
   <img src="https://img.shields.io/badge/Programmers-000000?style=for-the-badge&logo=42&logoColor=white(https://programmers.co.kr/pr/gdsygrt557422_1290)"/>
 </a>
-![snake gif](https://github.com/BackdevHong/BackdevHong/blob/output/github-contribution-grid-snake.svg)
 
 ## My Commit 🙌
 
 [![홍인성의 github 활동 그래프 ](https://activity-graph.herokuapp.com/graph?username=BackdevHong&theme=react-dark)](https://github.com/BackdevHong)
+![snake gif](https://github.com/BackdevHong/BackdevHong/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 dlstjdghd/dlstjdghd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

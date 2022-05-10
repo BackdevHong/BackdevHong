@@ -1,8 +1,6 @@
 ## Hi! i'm 홍인성! 👋
 
-<img src="https://user-images.githubusercontent.com/73598325/148487481-c0f8a477-e8f5-475b-b2cc-4c3616091e8b.jpg">
-i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Nodejs, Php, Vue.js<br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBackdevHong%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+i'm 19 and my dream is fullstack web developer, i'm learning React, Next.js<br>
 
 -   👀 I’m interested in Full-Stack Development
 -   🌱 I’m currently learning Vue, React, PHP
@@ -16,10 +14,6 @@ i'm 19 and my dream is fullstack web developer, i'm learning JavaScript and Node
 -   [Twitch](https://twitch.tv/ghddls7799)
 -   [instagram](https://www.instagram.com/ghddlstjd0704/)
 -   [Vlog](https://velog.io/@fulldev_hong/)
-
-## My RoadMap 👍
-
--   [RoadMap](https://github.com/BackdevHong/RoadMapToDo)
 
 ## Using Editor
 

@@ -1,10 +1,9 @@
 ## Hi! i'm 홍인성! 👋
 
-i'm 19 and my dream is fullstack web developer, i'm learning React, Next.js<br>
+i'm 19 and my dream is Front-end Programer
 
--   👀 I’m interested in Full-Stack Development
--   🌱 I’m currently learning Vue, React, PHP
--   🖨️ I'm working on YHSbearing IT Department ( Yhsbearing.com )
+-   👀 I’m interested in Front-end Development
+-   🌱 I’m currently learning Vue, React, Next.js
 -   📫 How to reach me Discord : 뙈지몬#1306
 
 ## Connect With me 🐱‍🏍
@@ -16,19 +15,14 @@ i'm 19 and my dream is fullstack web developer, i'm learning React, Next.js<br>
 -   [Vlog](https://velog.io/@fulldev_hong/)
 
 ## Using Editor
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My Skills
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## My Status 🎁
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BackdevHong&count_private=true&theme=react&showicons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BackdevHong&langs_count=5&theme=react)
-[![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BackdevHong)](https://github.com/BackdevHong/github-contribution-stats/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=backdevhong&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Information
 
@@ -37,11 +31,10 @@ i'm 19 and my dream is fullstack web developer, i'm learning React, Next.js<br>
 </a>
 
 ## My Commit 🙌
-
-[![홍인성의 github 활동 그래프 ](https://activity-graph.herokuapp.com/graph?username=BackdevHong&theme=react-dark)](https://github.com/BackdevHong)
 ![snake gif](https://github.com/BackdevHong/BackdevHong/blob/output/github-contribution-grid-snake.svg)
-<a href="https://opgc.me/#/users/backdevhong" target="_blank"><img src="https://api.opgc.me/githubs/users/backdevhong/tag/?theme=basic" /></a>
 
+## My Rank
+<a href="https://opgc.me/#/users/backdevhong" target="_blank"><img src="https://api.opgc.me/githubs/users/backdevhong/tag/?theme=basic" /></a>
 <!---
 dlstjdghd/dlstjdghd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

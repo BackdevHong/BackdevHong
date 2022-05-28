@@ -3,7 +3,7 @@
 i'm 19 and my dream is Front-end Programer
 
 -   👀 I’m interested in Front-end Development
--   🌱 I’m currently learning Vue, React, Next.js
+-   🌱 I’m currently learning Vue, Node.js
 -   📫 How to reach me Discord : 뙈지몬#1306
 
 ## Connect With me 🐱‍🏍

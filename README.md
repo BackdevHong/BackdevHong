@@ -1,8 +1,8 @@
 ## Hi! i'm 홍인성! 👋
 
-i'm 19 and my dream is Front-end Programer
+i'm 19 and my dream is Full-Stack Programer
 
--   👀 I’m interested in Front-end Development
+-   👀 I’m interested in Full-Stack Development
 -   🌱 I’m currently learning Vue, Node.js
 -   📫 How to reach me Discord : 뙈지몬#1306
 

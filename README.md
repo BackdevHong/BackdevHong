@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=150&section=header&text=Hong%27s%20Github&fontSize=90&animation=fadeIn&fontAlignY=55" />
-  <h3>💻 TechStack ( 사용하는 기술 ) 💻</h3>
+  <h3>💻 TechStack 💻</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />

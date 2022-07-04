@@ -17,6 +17,7 @@
   <a href="https://velog.io/@fulldev_hong"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
   <a href="https://www.instagram.com/ghddlstjd0704"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="https://programmers.co.kr/pr/ghddls0704"><img src="https://img.shields.io/badge/programmers-00B0D8?style=for-the-badge&logo=Probot&logoColor=white" /></a>
+  <a href="https://discord.gg/g3YfyNgXru"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
     
   <h3>🆙 Rank 🆙</h3>
   <a href="https://opgc.me/#/users/backdevhong" target="_blank"><img src="https://api.opgc.me/githubs/users/backdevhong/tag/?theme=basic" /></a>

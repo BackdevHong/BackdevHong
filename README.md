@@ -23,5 +23,5 @@
   <a href="https://opgc.me/#/users/backdevhong" target="_blank"><img src="https://api.opgc.me/githubs/users/backdevhong/tag/?theme=basic" /></a>
     
   <h3>🎵 Listening Music 🎵</h3>
-  <a href="https://spotify-recently-played-readme.vercel.app/api?user=af7rfp109ho642nlx5cb5shaw"><img src="https://spotify-recently-played-readme.vercel.app/api?user=af7rfp109ho642nlx5cb5shaw" /></a>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&cover_image=false&theme=default&bar_color_cover=false&bar_color=eeff00" /></a>
 </div>

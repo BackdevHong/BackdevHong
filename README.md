@@ -24,4 +24,7 @@
     
   <h3>🎵 Listening Music 🎵</h3>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&cover_image=false&theme=default&bar_color_cover=false&bar_color=eeff00" /></a>
+
+  <h3>📢 My Velog 📢</h3>
+  <a href="https://velog-readme-stats.vercel.app/api/redirect?name=fulldev_hong&tag=github"><img src="https://velog-readme-stats.vercel.app/api?name=fulldev_hong&color=dark"/></a>
 </div>

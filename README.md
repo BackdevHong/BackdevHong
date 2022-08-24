@@ -29,3 +29,5 @@
   <h3>📢 My Velog 📢</h3>
   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=fulldev_hong"><img src="https://velog-readme-stats.vercel.app/api?name=fulldev_hong&color=dark"/></a>
 </div>
+
+<!-- 히히 -->

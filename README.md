@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <h3>✍️ Learning Tech✍️</h3>
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+  <!-- <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> ( Vue 끝나면 ㄱㄱ )-->
 <!--   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> ( 예정 ) -->
@@ -29,5 +29,3 @@
   <h3>📢 My Velog 📢</h3>
   <a href="https://velog-readme-stats.vercel.app/api/redirect?name=fulldev_hong"><img src="https://velog-readme-stats.vercel.app/api?name=fulldev_hong&color=dark"/></a>
 </div>
-
-<!-- 히히 -->

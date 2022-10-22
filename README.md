@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <h3>✍️ Learning Tech✍️</h3>
   <!-- <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" /> -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> -->
   <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> ( Vue 끝나면 ㄱㄱ )-->
 <!--   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> ( 예정 ) -->
-<!--   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> ( 예정 ) -->
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <h3>📲 Connect 📲</h3>
   <a href="https://blog.naver.com/backdev_hong"><img src="https://img.shields.io/badge/naverblog-03C75A?style=for-the-badge&logo=naver&logoColor=white" /></a>
   <a href="https://velog.io/@fulldev_hong"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>

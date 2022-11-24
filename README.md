@@ -22,6 +22,9 @@
     
   <h3>🆙 Rank 🆙</h3>
   <a href="https://opgc.me/#/users/backdevhong" target="_blank"><img src="https://api.opgc.me/githubs/users/backdevhong/tag/?theme=basic" /></a>
+  
+  <h3>🎆 2023 Plan 🎆</h3>
+    <p> 1일 1커밋, 스프링 정복 </p>
     
   <h3>🎵 Listening Music 🎵</h3>
   <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=af7rfp109ho642nlx5cb5shaw&cover_image=false&theme=default&bar_color_cover=false&bar_color=eeff00" /></a>

@@ -13,7 +13,7 @@
     ],
     Skill : {
     	Front : [
-        	"HTML",
+            "HTML",
             "CSS",
             "JS",
             "Jquery"
@@ -24,7 +24,7 @@
     LearningSkill : {
     	Front : "전체적으로 다시 배울 예정",
         Back : [
-        	"Java",
+            "Java",
             "Spring"
         ],
         CI/CD : "배울 예정"

@@ -29,7 +29,7 @@
             "Spring"
         ],
         CI/CD : "배울 예정",
-        Algroithm : "Python"
+        Algorithm : "Python"
     },
     MyDream : "풀스택 개발자"
 }

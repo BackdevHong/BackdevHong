@@ -1,7 +1,7 @@
 ```js
 {
     name : "Hong In Sung",
-    age : 19,
+    age : 20,
     favorite_Editor: [
     	"VScode",
         "IntelliJ IDEA",

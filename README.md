@@ -132,4 +132,5 @@
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer" />
 </div>

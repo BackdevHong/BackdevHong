@@ -27,9 +27,109 @@
   <hr />
   <h3>🤴🏻 Thanks For My Follower 🤴🏻</h3>
   <!--START_SECTION:top-followers-->
-    <table>
-      <tr>
-      </tr>
-    </table>
-  <!--END_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sharlottes">
+        <img src="https://avatars2.githubusercontent.com/u/60801210" width="100px;" alt="Sharlottes"/>
+      </a>
+      <br />
+      <a href="https://github.com/Sharlottes">Sharlotte </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KIMTAEKJUN">
+        <img src="https://avatars2.githubusercontent.com/u/86834898" width="100px;" alt="KIMTAEKJUN"/>
+      </a>
+      <br />
+      <a href="https://github.com/KIMTAEKJUN">TaekJun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yujung7768903">
+        <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
+      </a>
+      <br />
+      <a href="https://github.com/yujung7768903">yujung7768903</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dev-yuka05">
+        <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
+      </a>
+      <br />
+      <a href="https://github.com/dev-yuka05">Minjun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tjdrkr2580">
+        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
+      </a>
+      <br />
+      <a href="https://github.com/tjdrkr2580">김태현</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tmddn3070">
+        <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
+      </a>
+      <br />
+      <a href="https://github.com/tmddn3070">SMOO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/qetqet910">
+        <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
+      </a>
+      <br />
+      <a href="https://github.com/qetqet910">5:14</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yppeu">
+        <img src="https://avatars2.githubusercontent.com/u/88474556" width="100px;" alt="yppeu"/>
+      </a>
+      <br />
+      <a href="https://github.com/yppeu">selly</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shadowstarDeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/829520k">
+        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
+      </a>
+      <br />
+      <a href="https://github.com/829520k">Choiseokjae</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rnlsrnlsdl">
+        <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
+      </a>
+      <br />
+      <a href="https://github.com/rnlsrnlsdl">rnlsrnlsdl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/komushroom">
+        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
+      </a>
+      <br />
+      <a href="https://github.com/komushroom">komushroom</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/todayscoding">
+        <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>
+      </a>
+      <br />
+      <a href="https://github.com/todayscoding">todayscoding</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OOGIN">
+        <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
+      </a>
+      <br />
+      <a href="https://github.com/OOGIN">kyunchanbum</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 </div>

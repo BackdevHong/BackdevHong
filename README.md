@@ -23,5 +23,5 @@
         <h5> 종류를 아직 잘 모름 </h5>
   <hr />
   <h3> 🎵 Music 🎵 </h3>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=ff00f7&bar_color_cover=false" /></a>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=ff00f7&bar_color_cover=true" /></a>
 </div>

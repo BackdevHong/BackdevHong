@@ -44,18 +44,18 @@
       <a href="https://github.com/KIMTAEKJUN">TaekJun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yujung7768903">
-        <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
-      </a>
-      <br />
-      <a href="https://github.com/yujung7768903">yujung7768903</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tjdrkr2580">
         <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
       </a>
       <br />
       <a href="https://github.com/tjdrkr2580">김태현</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yujung7768903">
+        <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
+      </a>
+      <br />
+      <a href="https://github.com/yujung7768903">yujung7768903</a>
     </td>
     <td align="center">
       <a href="https://github.com/dev-yuka05">

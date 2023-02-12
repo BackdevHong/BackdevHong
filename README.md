@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-    <h4> 🔑 CI/CD 🔑 </h4>
+    <h4> 🔑 DevOps 🔑 </h4>
         <h5> 종류를 아직 잘 모름 </h5>
         <!-- CI/CD는 자바 공부가 완료 된 후 공부할 예정 -->
   <hr />

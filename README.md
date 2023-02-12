@@ -21,6 +21,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
     <h4> 🔑 CI/CD 🔑 </h4>
         <h5> 종류를 아직 잘 모름 </h5>
+        <!-- CI/CD는 자바 공부가 완료 된 후 공부할 예정 -->
   <hr />
   <h3> 🎵 Listening Music 🎵 </h3>
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&cover_image=true&theme=default&show_offline=false&background_color=2f4f4f&bar_color=ff00f7&bar_color_cover=true" /></a>

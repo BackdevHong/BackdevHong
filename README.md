@@ -60,6 +60,13 @@
       <a href="https://github.com/yujung7768903">yujung7768903</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ombe1229">
+        <img src="https://avatars2.githubusercontent.com/u/50063975" width="100px;" alt="ombe1229"/>
+      </a>
+      <br />
+      <a href="https://github.com/ombe1229">YongChan Cho</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dev-yuka05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
       </a>
@@ -73,6 +80,15 @@
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AI-Expert-04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      </a>
+      <br />
+      <a href="https://github.com/AI-Expert-04">Kku_ing</a>
+    </td>
     <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
@@ -80,8 +96,6 @@
       <br />
       <a href="https://github.com/qetqet910">5:14</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yppeu">
         <img src="https://avatars2.githubusercontent.com/u/88474556" width="100px;" alt="yppeu"/>
@@ -97,6 +111,13 @@
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kiss8981">
+        <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
+      </a>
+      <br />
+      <a href="https://github.com/kiss8981">Dohyun Kim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
       </a>
@@ -110,6 +131,8 @@
       <br />
       <a href="https://github.com/rnlsrnlsdl">rnlsrnlsdl</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

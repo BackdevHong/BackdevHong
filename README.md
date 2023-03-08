@@ -73,14 +73,21 @@
       <a href="https://github.com/dev-yuka05">Minjun</a>
     </td>
     <td align="center">
+      <a href="https://github.com/whdbcks111">
+        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
+      </a>
+      <br />
+      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
       </a>
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/AI-Expert-04">
         <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
@@ -123,6 +130,8 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">
         <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
@@ -130,8 +139,6 @@
       <br />
       <a href="https://github.com/rnlsrnlsdl">rnlsrnlsdl</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

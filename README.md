@@ -158,7 +158,7 @@
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
       <br />
-      <a href="https://github.com/OOGIN">kyunchanbum</a>
+      <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
   </tr>
 </table>

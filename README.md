@@ -52,6 +52,13 @@
       <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Bruce0203">
+        <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
+      </a>
+      <br />
+      <a href="https://github.com/Bruce0203">종원</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/yujung7768903">
         <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
       </a>
@@ -72,6 +79,8 @@
       <br />
       <a href="https://github.com/dev-yuka05">Minjun</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
@@ -79,8 +88,6 @@
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
@@ -123,6 +130,8 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
@@ -130,8 +139,6 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

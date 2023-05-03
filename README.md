@@ -66,18 +66,18 @@
       <a href="https://github.com/yujung7768903">yujung7768903</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ombe1229">
-        <img src="https://avatars2.githubusercontent.com/u/50063975" width="100px;" alt="ombe1229"/>
-      </a>
-      <br />
-      <a href="https://github.com/ombe1229">YongChan Cho</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dev-yuka05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
       </a>
       <br />
       <a href="https://github.com/dev-yuka05">Minjun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tmddn3070">
+        <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
+      </a>
+      <br />
+      <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
   </tr>
   <tr>
@@ -87,13 +87,6 @@
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tmddn3070">
-        <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
-      </a>
-      <br />
-      <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
     <td align="center">
       <a href="https://github.com/AI-Expert-04">
@@ -130,8 +123,6 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
@@ -139,6 +130,8 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

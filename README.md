@@ -103,18 +103,18 @@
       <a href="https://github.com/yppeu">selly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/qetqet910">
-        <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
-      </a>
-      <br />
-      <a href="https://github.com/qetqet910">5:14</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shadowstarDeveloper">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
       </a>
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/qetqet910">
+        <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
+      </a>
+      <br />
+      <a href="https://github.com/qetqet910">5:14</a>
     </td>
     <td align="center">
       <a href="https://github.com/kiss8981">

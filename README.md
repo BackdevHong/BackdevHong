@@ -103,18 +103,18 @@
       <a href="https://github.com/yppeu">selly</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shadowstarDeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
       <br />
       <a href="https://github.com/qetqet910">5:14</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shadowstarDeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
     <td align="center">
       <a href="https://github.com/kiss8981">
@@ -124,14 +124,21 @@
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DevJaepaL">
+        <img src="https://avatars2.githubusercontent.com/u/104006620" width="100px;" alt="DevJaepaL"/>
+      </a>
+      <br />
+      <a href="https://github.com/DevJaepaL">JaepaL</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
       </a>
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

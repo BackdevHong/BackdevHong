@@ -45,18 +45,18 @@
       <a href="https://github.com/KIMTAEKJUN">TaekJun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tjdrkr2580">
-        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
-      </a>
-      <br />
-      <a href="https://github.com/tjdrkr2580">김태현</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bruce0203">
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
       <a href="https://github.com/Bruce0203">종원</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tjdrkr2580">
+        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
+      </a>
+      <br />
+      <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">

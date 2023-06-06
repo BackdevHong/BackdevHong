@@ -161,18 +161,18 @@
       <a href="https://github.com/todayscoding">todayscoding</a>
     </td>
     <td align="center">
-      <a href="https://github.com/OOGIN">
-        <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
-      </a>
-      <br />
-      <a href="https://github.com/OOGIN">CBKyun</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/gcw9438">
         <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
       </a>
       <br />
       <a href="https://github.com/gcw9438">Chanwook Kim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/OOGIN">
+        <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
+      </a>
+      <br />
+      <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
   </tr>
 </table>

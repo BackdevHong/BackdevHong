@@ -42,7 +42,7 @@
         <img src="https://avatars2.githubusercontent.com/u/86834898" width="100px;" alt="KIMTAEKJUN"/>
       </a>
       <br />
-      <a href="https://github.com/KIMTAEKJUN">TaekJun</a>
+      <a href="https://github.com/KIMTAEKJUN">TaekJun Kim</a>
     </td>
     <td align="center">
       <a href="https://github.com/Bruce0203">

@@ -96,13 +96,6 @@
       <a href="https://github.com/AI-Expert-04">Kku_ing</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yppeu">
-        <img src="https://avatars2.githubusercontent.com/u/88474556" width="100px;" alt="yppeu"/>
-      </a>
-      <br />
-      <a href="https://github.com/yppeu">selly</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
@@ -130,8 +123,6 @@
       <br />
       <a href="https://github.com/DevJaepaL">JaepaL</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
@@ -139,6 +130,8 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

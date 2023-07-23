@@ -66,18 +66,18 @@
       <a href="https://github.com/yujung7768903">yujung7768903</a>
     </td>
     <td align="center">
-      <a href="https://github.com/whdbcks111">
-        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
-      </a>
-      <br />
-      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
       </a>
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whdbcks111">
+        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
+      </a>
+      <br />
+      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
     </td>
   </tr>
   <tr>

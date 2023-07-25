@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=300&section=header&text=Hong%20In%20Sung&desc=Welcome!&descSize=30&fontSize=50&fontAlignY=45&descAlignY=65&animation=fadeIn" />
   <h3>👋🏻 Introduce Me 👋🏻</h3>
   Hello World! 안녕하세요! <br />
-  백엔드를 공부하고 있는 홍인성(남/20)이라고 합니다!<br />
+  프론트를 공부하고 있는 홍인성(남/20)이라고 합니다!<br />
   잘 부탁드려요!!
   <hr />
   <h3>🧰 My Skill 🧰</h3>

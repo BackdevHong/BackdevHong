@@ -24,7 +24,8 @@
         <!-- CI/CD는 자바 공부가 완료 된 후 공부할 예정 -->
   <hr />
   <h3> 🎵 Listening Music 🎵 </h3>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=af7rfp109ho642nlx5cb5shaw&cover_image=true&theme=default&show_offline=false&background_color=2f4f4f&bar_color=ff00f7&bar_color_cover=true" /></a>
+  <img src="https://github-profile-apple-music.web.app/api/v1/users/ZgX5BXlWuwR28fZc0Qhx/recent/played/tracks?template=template_1_3" />
+  
   <hr />
   <h3>🤴🏻 Thanks For My Follower 🤴🏻</h3>
   <!--START_SECTION:top-followers-->

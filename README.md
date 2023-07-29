@@ -32,6 +32,13 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Lob-dev">
+        <img src="https://avatars2.githubusercontent.com/u/67903919" width="100px;" alt="Lob-dev"/>
+      </a>
+      <br />
+      <a href="https://github.com/Lob-dev">SeokHyeon Kim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Sharlottes">
         <img src="https://avatars2.githubusercontent.com/u/60801210" width="100px;" alt="Sharlottes"/>
       </a>
@@ -73,6 +80,8 @@
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
@@ -80,8 +89,6 @@
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/dev-yuka05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
@@ -124,6 +131,8 @@
       <br />
       <a href="https://github.com/DevJaepaL">JaepaL</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
@@ -131,8 +140,6 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>

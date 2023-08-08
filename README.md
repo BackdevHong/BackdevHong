@@ -64,7 +64,7 @@
         <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
       </a>
       <br />
-      <a href="https://github.com/tjdrkr2580">태현</a>
+      <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">

@@ -57,7 +57,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">이종원</a>
+      <a href="https://github.com/Bruce0203">Jong Won Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/tjdrkr2580">

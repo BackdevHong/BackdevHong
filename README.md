@@ -134,18 +134,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/829520k">
-        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
-      </a>
-      <br />
-      <a href="https://github.com/829520k">Choiseokjae</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
       </a>
       <br />
       <a href="https://github.com/komushroom">komushroom</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/829520k">
+        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
+      </a>
+      <br />
+      <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

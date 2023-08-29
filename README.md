@@ -36,7 +36,7 @@
         <img src="https://avatars2.githubusercontent.com/u/67903919" width="100px;" alt="Lob-dev"/>
       </a>
       <br />
-      <a href="https://github.com/Lob-dev">Seokhyeon Kim (brody)</a>
+      <a href="https://github.com/Lob-dev">Seokhyeon Kim</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sharlottes">

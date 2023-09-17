@@ -24,8 +24,7 @@
         <!-- CI/CD는 자바 공부가 완료 된 후 공부할 예정 -->
   <hr />
   <h3> 🎵 Listening Music 🎵 </h3>
-  <img src="https://github-profile-apple-music.web.app/api/v1/users/ZgX5BXlWuwR28fZc0Qhx/recent/played/tracks?template=template_1_3" />
-  
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000936.63413765371b48bab1c6093c20a61980.0902" />
   <hr />
   <h3>🤴🏻 Thanks For My Follower 🤴🏻</h3>
   <!--START_SECTION:top-followers-->

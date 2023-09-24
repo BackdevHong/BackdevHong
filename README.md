@@ -42,7 +42,7 @@
         <img src="https://avatars2.githubusercontent.com/u/60801210" width="100px;" alt="Sharlottes"/>
       </a>
       <br />
-      <a href="https://github.com/Sharlottes">Sharlotte </a>
+      <a href="https://github.com/Sharlottes">Sharlottes</a>
     </td>
     <td align="center">
       <a href="https://github.com/KIMTAEKJUN">

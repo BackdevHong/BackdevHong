@@ -89,18 +89,18 @@
       <a href="https://github.com/dev-yuka05">Minjun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/whdbcks111">
-        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
-      </a>
-      <br />
-      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/AI-Expert-04">
         <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
       </a>
       <br />
       <a href="https://github.com/AI-Expert-04">Kku_ing</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/whdbcks111">
+        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
+      </a>
+      <br />
+      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
     </td>
     <td align="center">
       <a href="https://github.com/qetqet910">
@@ -161,6 +161,13 @@
       <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gcw9438">
+        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
+      </a>
+      <br />
+      <a href="https://github.com/gcw9438">Chanwook Kim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
@@ -173,13 +180,6 @@
       </a>
       <br />
       <a href="https://github.com/todayscoding">todayscoding</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gcw9438">
-        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
-      </a>
-      <br />
-      <a href="https://github.com/gcw9438">Chanwook Kim</a>
     </td>
   </tr>
 </table>

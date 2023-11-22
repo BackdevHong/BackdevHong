@@ -89,18 +89,18 @@
       <a href="https://github.com/dev-yuka05">Minjun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AI-Expert-04">
-        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
-      </a>
-      <br />
-      <a href="https://github.com/AI-Expert-04">Kku_ing</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AI-Expert-04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      </a>
+      <br />
+      <a href="https://github.com/AI-Expert-04">Kku_ing</a>
     </td>
     <td align="center">
       <a href="https://github.com/qetqet910">

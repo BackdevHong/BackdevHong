@@ -56,7 +56,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">Bruce0203</a>
+      <a href="https://github.com/Bruce0203">Bruce</a>
     </td>
     <td align="center">
       <a href="https://github.com/tjdrkr2580">
@@ -124,21 +124,14 @@
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/DevJaepaL">
-        <img src="https://avatars2.githubusercontent.com/u/104006620" width="100px;" alt="DevJaepaL"/>
-      </a>
-      <br />
-      <a href="https://github.com/DevJaepaL">JaepaL</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
       </a>
       <br />
       <a href="https://github.com/komushroom">komushroom</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>

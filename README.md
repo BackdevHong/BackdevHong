@@ -96,11 +96,25 @@
       <a href="https://github.com/dev-yuka05">Minjun</a>
     </td>
     <td align="center">
+      <a href="https://github.com/IPECTER">
+        <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
+      </a>
+      <br />
+      <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/FlagFan34272">
+        <img src="https://avatars2.githubusercontent.com/u/96718183" width="100px;" alt="FlagFan34272"/>
+      </a>
+      <br />
+      <a href="https://github.com/FlagFan34272">Flag_Fan</a>
     </td>
     <td align="center">
       <a href="https://github.com/qetqet910">
@@ -116,6 +130,8 @@
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
@@ -130,8 +146,6 @@
       <br />
       <a href="https://github.com/komushroom">komushroom</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
@@ -167,6 +181,8 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>

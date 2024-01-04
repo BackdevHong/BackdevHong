@@ -117,12 +117,21 @@
       <a href="https://github.com/FlagFan34272">Flag_Fan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/superman2080">
+        <img src="https://avatars2.githubusercontent.com/u/49778969" width="100px;" alt="superman2080"/>
+      </a>
+      <br />
+      <a href="https://github.com/superman2080">김태욱</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
       <br />
       <a href="https://github.com/qetqet910">5:14</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shadowstarDeveloper">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
@@ -130,8 +139,6 @@
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
@@ -174,6 +181,8 @@
       <br />
       <a href="https://github.com/gcw9438">Chanwook Kim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
@@ -181,8 +190,6 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>

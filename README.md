@@ -56,7 +56,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">jongwon</a>
+      <a href="https://github.com/Bruce0203">jongwon: joboasi</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">
@@ -196,6 +196,13 @@
       </a>
       <br />
       <a href="https://github.com/todayscoding">todayscoding</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luriel0228">
+        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
+      </a>
+      <br />
+      <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
   </tr>
 </table>

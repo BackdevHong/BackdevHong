@@ -45,13 +45,6 @@
       <a href="https://github.com/Sharlottes">Sharlottes</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KIMTAEKJUN">
-        <img src="https://avatars2.githubusercontent.com/u/86834898" width="100px;" alt="KIMTAEKJUN"/>
-      </a>
-      <br />
-      <a href="https://github.com/KIMTAEKJUN">TaekJun Kim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bruce0203">
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
@@ -79,6 +72,13 @@
       <br />
       <a href="https://github.com/AI-Expert-04">Kku_ing</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/whdbcks111">
+        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
+      </a>
+      <br />
+      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -103,13 +103,6 @@
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
     <td align="center">
-      <a href="https://github.com/whdbcks111">
-        <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
-      </a>
-      <br />
-      <a href="https://github.com/whdbcks111">화베(조유찬)</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/FlagFan34272">
         <img src="https://avatars2.githubusercontent.com/u/96718183" width="100px;" alt="FlagFan34272"/>
       </a>
@@ -130,8 +123,6 @@
       <br />
       <a href="https://github.com/qetqet910">5:14</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shadowstarDeveloper">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
@@ -139,6 +130,8 @@
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
@@ -181,8 +174,6 @@
       <br />
       <a href="https://github.com/gcw9438">Chanwook Kim</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
@@ -190,6 +181,8 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>

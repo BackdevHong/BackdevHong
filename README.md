@@ -77,7 +77,7 @@
         <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
       </a>
       <br />
-      <a href="https://github.com/AI-Expert-04">Kku_ing</a>
+      <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
   </tr>
   <tr>
@@ -168,12 +168,21 @@
       <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Luriel0228">
+        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
+      </a>
+      <br />
+      <a href="https://github.com/Luriel0228">루리엘</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/gcw9438">
         <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
       </a>
       <br />
       <a href="https://github.com/gcw9438">Chanwook Kim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
@@ -181,21 +190,12 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>
       </a>
       <br />
       <a href="https://github.com/todayscoding">todayscoding</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Luriel0228">
-        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
-      </a>
-      <br />
-      <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
   </tr>
 </table>

@@ -124,20 +124,20 @@
       <a href="https://github.com/qetqet910">5:14</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shadowstarDeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
-      </a>
-      <br />
-      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
       </a>
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shadowstarDeveloper">
+        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
+      </a>
+      <br />
+      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
     <td align="center">
       <a href="https://github.com/komushroom">

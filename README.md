@@ -161,6 +161,13 @@
       <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
     <td align="center">
+      <a href="https://github.com/gcw9438">
+        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
+      </a>
+      <br />
+      <a href="https://github.com/gcw9438">Chanwook Kim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dev-alphagot">
         <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
       </a>
@@ -173,13 +180,6 @@
       </a>
       <br />
       <a href="https://github.com/Luriel0228">루리엘</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gcw9438">
-        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
-      </a>
-      <br />
-      <a href="https://github.com/gcw9438">Chanwook Kim</a>
     </td>
   </tr>
   <tr>

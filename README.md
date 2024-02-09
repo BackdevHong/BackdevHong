@@ -175,20 +175,20 @@
       <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Luriel0228">
-        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
-      </a>
-      <br />
-      <a href="https://github.com/Luriel0228">루리엘</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luriel0228">
+        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
+      </a>
+      <br />
+      <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
     <td align="center">
       <a href="https://github.com/todayscoding">

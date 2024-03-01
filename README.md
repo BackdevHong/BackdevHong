@@ -82,13 +82,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tmddn3070">
-        <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
-      </a>
-      <br />
-      <a href="https://github.com/tmddn3070">SMOO</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dev-yuka05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
       </a>
@@ -101,6 +94,13 @@
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tmddn3070">
+        <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
+      </a>
+      <br />
+      <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
     <td align="center">
       <a href="https://github.com/IPECTER">

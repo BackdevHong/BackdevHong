@@ -45,13 +45,6 @@
       <a href="https://github.com/Sharlottes">Sharlottes</a>
     </td>
     <td align="center">
-      <a href="https://github.com/KIMTAEKJUN">
-        <img src="https://avatars2.githubusercontent.com/u/86834898" width="100px;" alt="KIMTAEKJUN"/>
-      </a>
-      <br />
-      <a href="https://github.com/KIMTAEKJUN">TaekJun Kim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/Bruce0203">
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
@@ -79,8 +72,6 @@
       <br />
       <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
@@ -88,6 +79,8 @@
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dev-yuka05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="dev-yuka05"/>
@@ -130,8 +123,6 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shadowstarDeveloper">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
@@ -139,6 +130,8 @@
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
@@ -181,8 +174,6 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Luriel0228">
         <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
@@ -190,6 +181,8 @@
       <br />
       <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>

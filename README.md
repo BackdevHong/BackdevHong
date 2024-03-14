@@ -66,18 +66,18 @@
       <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AI-Expert-04">
-        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
-      </a>
-      <br />
-      <a href="https://github.com/AI-Expert-04">yeopseung</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
       </a>
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AI-Expert-04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      </a>
+      <br />
+      <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
   </tr>
   <tr>

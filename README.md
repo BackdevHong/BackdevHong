@@ -82,6 +82,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/IPECTER">
+        <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
+      </a>
+      <br />
+      <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
       </a>
@@ -94,13 +101,6 @@
       </a>
       <br />
       <a href="https://github.com/dev-yuka05">Minjun</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/IPECTER">
-        <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
-      </a>
-      <br />
-      <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
     <td align="center">
       <a href="https://github.com/superman2080">

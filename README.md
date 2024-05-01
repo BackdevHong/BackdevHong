@@ -49,7 +49,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">Bruce0203</a>
+      <a href="https://github.com/Bruce0203">Normal Cat</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">
@@ -189,6 +189,13 @@
       </a>
       <br />
       <a href="https://github.com/todayscoding">todayscoding</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HyejiShin-20">
+        <img src="https://avatars2.githubusercontent.com/u/74303368" width="100px;" alt="HyejiShin-20"/>
+      </a>
+      <br />
+      <a href="https://github.com/HyejiShin-20">Hyeji Shin</a>
     </td>
   </tr>
 </table>

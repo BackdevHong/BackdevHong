@@ -49,7 +49,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">Normal Cat</a>
+      <a href="https://github.com/Bruce0203">Jongwon Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">
@@ -82,18 +82,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/IPECTER">
-        <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
-      </a>
-      <br />
-      <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IPECTER">
+        <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
+      </a>
+      <br />
+      <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
     <td align="center">
       <a href="https://github.com/dev-yuka05">

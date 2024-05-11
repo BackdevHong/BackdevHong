@@ -161,11 +161,11 @@
       <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gcw9438">
-        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="gcw9438"/>
+      <a href="https://github.com/kcw0x466">
+        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="kcw0x466"/>
       </a>
       <br />
-      <a href="https://github.com/gcw9438">Chanwook Kim</a>
+      <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
       <a href="https://github.com/OOGIN">

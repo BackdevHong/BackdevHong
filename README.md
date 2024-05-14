@@ -82,18 +82,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/AI-Expert-04">
-        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
-      </a>
-      <br />
-      <a href="https://github.com/AI-Expert-04">yeopseung</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/IPECTER">
         <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
       </a>
       <br />
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AI-Expert-04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      </a>
+      <br />
+      <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
     <td align="center">
       <a href="https://github.com/dev-yuka05">

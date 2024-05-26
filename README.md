@@ -49,7 +49,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">Jongwon Lee</a>
+      <a href="https://github.com/Bruce0203">Lee Jong-won</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">
@@ -133,18 +133,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/komushroom">
-        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
-      </a>
-      <br />
-      <a href="https://github.com/komushroom">komushroom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dev-alphagot">
         <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
       </a>
       <br />
       <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/komushroom">
+        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
+      </a>
+      <br />
+      <a href="https://github.com/komushroom">komushroom</a>
     </td>
     <td align="center">
       <a href="https://github.com/829520k">

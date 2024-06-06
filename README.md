@@ -49,7 +49,7 @@
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
       <br />
-      <a href="https://github.com/Bruce0203">Lee Jong-won</a>
+      <a href="https://github.com/Bruce0203">Bruce0203</a>
     </td>
     <td align="center">
       <a href="https://github.com/yujung7768903">

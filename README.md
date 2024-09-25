@@ -198,6 +198,13 @@
       <a href="https://github.com/todayscoding">todayscoding</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Leuneg">
+        <img src="https://avatars2.githubusercontent.com/u/146085936" width="100px;" alt="Leuneg"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leuneg">Leuneg</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HyejiShin-20">
         <img src="https://avatars2.githubusercontent.com/u/74303368" width="100px;" alt="HyejiShin-20"/>
       </a>

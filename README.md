@@ -73,14 +73,21 @@
       <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
+      <a href="https://github.com/snakeblanket">
+        <img src="https://avatars2.githubusercontent.com/u/61723993" width="100px;" alt="snakeblanket"/>
+      </a>
+      <br />
+      <a href="https://github.com/snakeblanket">SnakeBlanket</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/IPECTER">
         <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
       </a>
       <br />
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
@@ -123,6 +130,8 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/shadowstarDeveloper">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
@@ -130,8 +139,6 @@
       <br />
       <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/komushroom">
         <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
@@ -174,6 +181,8 @@
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Luriel0228">
         <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
@@ -181,8 +190,6 @@
       <br />
       <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/todayscoding">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>

@@ -52,18 +52,18 @@
       <a href="https://github.com/Bruce0203">Bruce0203</a>
     </td>
     <td align="center">
-      <a href="https://github.com/yujung7768903">
-        <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
-      </a>
-      <br />
-      <a href="https://github.com/yujung7768903">yujung7768903</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/tmddn3070">
         <img src="https://avatars2.githubusercontent.com/u/69005921" width="100px;" alt="tmddn3070"/>
       </a>
       <br />
       <a href="https://github.com/tmddn3070">SMOO</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yujung7768903">
+        <img src="https://avatars2.githubusercontent.com/u/68562176" width="100px;" alt="yujung7768903"/>
+      </a>
+      <br />
+      <a href="https://github.com/yujung7768903">yujung7768903</a>
     </td>
     <td align="center">
       <a href="https://github.com/tjdrkr2580">
@@ -121,7 +121,7 @@
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
       <br />
-      <a href="https://github.com/qetqet910">5:14</a>
+      <a href="https://github.com/qetqet910">KimHyeonMin</a>
     </td>
     <td align="center">
       <a href="https://github.com/kiss8981">

@@ -117,18 +117,18 @@
       <a href="https://github.com/superman2080">김태욱</a>
     </td>
     <td align="center">
-      <a href="https://github.com/qetqet910">
-        <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
-      </a>
-      <br />
-      <a href="https://github.com/qetqet910">KimHyeonMin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
       </a>
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/qetqet910">
+        <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
+      </a>
+      <br />
+      <a href="https://github.com/qetqet910">KimHyeonMin</a>
     </td>
   </tr>
   <tr>

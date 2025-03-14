@@ -198,6 +198,13 @@
       <a href="https://github.com/todayscoding">todayscoding</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Shihyeon">
+        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="Shihyeon"/>
+      </a>
+      <br />
+      <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Leuneg">
         <img src="https://avatars2.githubusercontent.com/u/146085936" width="100px;" alt="Leuneg"/>
       </a>

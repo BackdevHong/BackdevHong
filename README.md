@@ -31,11 +31,11 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Lob-dev">
-        <img src="https://avatars2.githubusercontent.com/u/67903919" width="100px;" alt="Lob-dev"/>
+      <a href="https://github.com/brody-0125">
+        <img src="https://avatars2.githubusercontent.com/u/67903919" width="100px;" alt="brody-0125"/>
       </a>
       <br />
-      <a href="https://github.com/Lob-dev">Seokhyeon Kim</a>
+      <a href="https://github.com/brody-0125">Seokhyeon Kim</a>
     </td>
     <td align="center">
       <a href="https://github.com/Sharlottes">

@@ -168,18 +168,18 @@
       <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dev-alphagot">
-        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
-      </a>
-      <br />
-      <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
       <br />
       <a href="https://github.com/apersomany">Donghyun Shin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dev-alphagot">
+        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
+      </a>
+      <br />
+      <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
     </td>
   </tr>
   <tr>

@@ -161,13 +161,6 @@
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
-      <a href="https://github.com/rnlsrnlsdl">
-        <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
-      </a>
-      <br />
-      <a href="https://github.com/rnlsrnlsdl">theroundone</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
@@ -175,20 +168,27 @@
       <a href="https://github.com/apersomany">Donghyun Shin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dev-alphagot">
-        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
+      <a href="https://github.com/rnlsrnlsdl">
+        <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
       </a>
       <br />
-      <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
+      <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Shihyeon">
         <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="Shihyeon"/>
       </a>
       <br />
       <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dev-alphagot">
+        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
+      </a>
+      <br />
+      <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
     </td>
     <td align="center">
       <a href="https://github.com/OOGIN">

@@ -184,6 +184,13 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://github.com/nyaon08">
+        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="nyaon08"/>
+      </a>
+      <br />
+      <a href="https://github.com/nyaon08">Nyaon</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dev-alphagot">
         <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
       </a>
@@ -196,13 +203,6 @@
       </a>
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Luriel0228">
-        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="Luriel0228"/>
-      </a>
-      <br />
-      <a href="https://github.com/Luriel0228">루리엘</a>
     </td>
     <td align="center">
       <a href="https://github.com/todayscoding">

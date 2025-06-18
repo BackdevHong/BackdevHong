@@ -154,6 +154,13 @@
       <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Shihyeon">
+        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="Shihyeon"/>
+      </a>
+      <br />
+      <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
       </a>
@@ -166,13 +173,6 @@
       </a>
       <br />
       <a href="https://github.com/apersomany">Donghyun Shin</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Shihyeon">
-        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="Shihyeon"/>
-      </a>
-      <br />
-      <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

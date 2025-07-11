@@ -154,13 +154,6 @@
       <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/829520k">
-        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
-      </a>
-      <br />
-      <a href="https://github.com/829520k">Choiseokjae</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
@@ -173,6 +166,13 @@
       </a>
       <br />
       <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/829520k">
+        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
+      </a>
+      <br />
+      <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">
@@ -217,6 +217,13 @@
       </a>
       <br />
       <a href="https://github.com/Leuneg">Leuneg</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jigwan0408">
+        <img src="https://avatars2.githubusercontent.com/u/96762169" width="100px;" alt="Jigwan0408"/>
+      </a>
+      <br />
+      <a href="https://github.com/Jigwan0408">Jake48</a>
     </td>
     <td align="center">
       <a href="https://github.com/HyejiShin-20">

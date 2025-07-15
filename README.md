@@ -137,7 +137,7 @@
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
       </a>
       <br />
-      <a href="https://github.com/shadowstarDeveloper">K0KK0R0</a>
+      <a href="https://github.com/shadowstarDeveloper">Shadowstar</a>
     </td>
     <td align="center">
       <a href="https://github.com/komushroom">

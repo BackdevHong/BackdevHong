@@ -133,11 +133,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/shadowstarDeveloper">
-        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="shadowstarDeveloper"/>
+      <a href="https://github.com/BlackLibraryDev">
+        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="BlackLibraryDev"/>
       </a>
       <br />
-      <a href="https://github.com/shadowstarDeveloper">Shadowstar</a>
+      <a href="https://github.com/BlackLibraryDev">Shadowstar</a>
     </td>
     <td align="center">
       <a href="https://github.com/komushroom">

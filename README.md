@@ -168,11 +168,11 @@
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Shihyeon">
-        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="Shihyeon"/>
+      <a href="https://github.com/shihyeon">
+        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="shihyeon"/>
       </a>
       <br />
-      <a href="https://github.com/Shihyeon">Seungyeop Lee</a>
+      <a href="https://github.com/shihyeon">Seungyeop Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

@@ -140,18 +140,18 @@
       <a href="https://github.com/BlackLibraryDev">Shadowstar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/komushroom">
-        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
-      </a>
-      <br />
-      <a href="https://github.com/komushroom">komushroom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/kcw0x466">
         <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="kcw0x466"/>
       </a>
       <br />
       <a href="https://github.com/kcw0x466">Chanwook Kim</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/komushroom">
+        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
+      </a>
+      <br />
+      <a href="https://github.com/komushroom">komushroom</a>
     </td>
     <td align="center">
       <a href="https://github.com/apersomany">

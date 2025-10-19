@@ -158,18 +158,18 @@
       <a href="https://github.com/apersomany">Donghyun Shin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/829520k">
-        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
-      </a>
-      <br />
-      <a href="https://github.com/829520k">Choiseokjae</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/shihyeon">
         <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="shihyeon"/>
       </a>
       <br />
       <a href="https://github.com/shihyeon">Seungyeop Lee</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/829520k">
+        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
+      </a>
+      <br />
+      <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

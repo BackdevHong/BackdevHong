@@ -93,18 +93,18 @@
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AI-Expert-04">
-        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
-      </a>
-      <br />
-      <a href="https://github.com/AI-Expert-04">yeopseung</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/minjuun05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="minjuun05"/>
       </a>
       <br />
       <a href="https://github.com/minjuun05">Minjun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AI-Expert-04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      </a>
+      <br />
+      <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
     <td align="center">
       <a href="https://github.com/superman2080">
@@ -158,18 +158,18 @@
       <a href="https://github.com/apersomany">Donghyun Shin</a>
     </td>
     <td align="center">
-      <a href="https://github.com/shihyeon">
-        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="shihyeon"/>
-      </a>
-      <br />
-      <a href="https://github.com/shihyeon">Seungyeop Lee</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/829520k">
         <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
       </a>
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shihyeon">
+        <img src="https://avatars2.githubusercontent.com/u/76618619" width="100px;" alt="shihyeon"/>
+      </a>
+      <br />
+      <a href="https://github.com/shihyeon">Seungyeop Lee</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

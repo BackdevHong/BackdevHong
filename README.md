@@ -28,13 +28,6 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/TurboChainx">
-        <img src="https://avatars2.githubusercontent.com/u/171350831" width="100px;" alt="TurboChainx"/>
-      </a>
-      <br />
-      <a href="https://github.com/TurboChainx">turbo chainx</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/brody-0125">
         <img src="https://avatars2.githubusercontent.com/u/67903919" width="100px;" alt="brody-0125"/>
       </a>
@@ -76,8 +69,6 @@
       <br />
       <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/snakeblanket">
         <img src="https://avatars2.githubusercontent.com/u/61723993" width="100px;" alt="snakeblanket"/>
@@ -85,6 +76,8 @@
       <br />
       <a href="https://github.com/snakeblanket">SnakeBlanket</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/IPECTER">
         <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
@@ -127,8 +120,6 @@
       <br />
       <a href="https://github.com/qetqet910">KimHyeonMin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
@@ -136,6 +127,8 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/BlackLibraryDev">
         <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="BlackLibraryDev"/>
@@ -178,8 +171,6 @@
       <br />
       <a href="https://github.com/shihyeon">Seungyeop Lee</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">
         <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
@@ -187,6 +178,8 @@
       <br />
       <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/nyaon08">
         <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="nyaon08"/>
@@ -229,8 +222,6 @@
       <br />
       <a href="https://github.com/Jigwan0408">Jake48</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/HyejiShin-20">
         <img src="https://avatars2.githubusercontent.com/u/74303368" width="100px;" alt="HyejiShin-20"/>

@@ -144,18 +144,18 @@
       <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/komushroom">
-        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
-      </a>
-      <br />
-      <a href="https://github.com/komushroom">komushroom</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
       <br />
       <a href="https://github.com/apersomany">Donghyun Shin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/komushroom">
+        <img src="https://avatars2.githubusercontent.com/u/95523186" width="100px;" alt="komushroom"/>
+      </a>
+      <br />
+      <a href="https://github.com/komushroom">komushroom</a>
     </td>
     <td align="center">
       <a href="https://github.com/829520k">

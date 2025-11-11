@@ -188,13 +188,6 @@
       <a href="https://github.com/nyaon08">Nyaon</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dev-alphagot">
-        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="dev-alphagot"/>
-      </a>
-      <br />
-      <a href="https://github.com/dev-alphagot">Sukuna Shinmyoumaru</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
@@ -221,6 +214,13 @@
       </a>
       <br />
       <a href="https://github.com/Jigwan0408">Jake48</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ym2413-opll">
+        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="ym2413-opll"/>
+      </a>
+      <br />
+      <a href="https://github.com/ym2413-opll">Sekibanki</a>
     </td>
     <td align="center">
       <a href="https://github.com/HyejiShin-20">

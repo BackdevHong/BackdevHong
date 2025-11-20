@@ -107,18 +107,18 @@
       <a href="https://github.com/AI-Expert-04">yeopseung</a>
     </td>
     <td align="center">
-      <a href="https://github.com/superman2080">
-        <img src="https://avatars2.githubusercontent.com/u/49778969" width="100px;" alt="superman2080"/>
-      </a>
-      <br />
-      <a href="https://github.com/superman2080">김태욱</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
       <br />
       <a href="https://github.com/qetqet910">KimHyeonMin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/superman2080">
+        <img src="https://avatars2.githubusercontent.com/u/49778969" width="100px;" alt="superman2080"/>
+      </a>
+      <br />
+      <a href="https://github.com/superman2080">김태욱</a>
     </td>
     <td align="center">
       <a href="https://github.com/kiss8981">

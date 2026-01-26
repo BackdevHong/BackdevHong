@@ -100,11 +100,11 @@
       <a href="https://github.com/minjuun05">Minjun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AI-Expert-04">
-        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="AI-Expert-04"/>
+      <a href="https://github.com/YeopSeung04">
+        <img src="https://avatars2.githubusercontent.com/u/108778451" width="100px;" alt="YeopSeung04"/>
       </a>
       <br />
-      <a href="https://github.com/AI-Expert-04">yeopseung</a>
+      <a href="https://github.com/YeopSeung04">SEUNG YEOP HAN</a>
     </td>
     <td align="center">
       <a href="https://github.com/qetqet910">

@@ -202,11 +202,11 @@
       <a href="https://github.com/todayscoding">todayscoding</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Leuneg">
-        <img src="https://avatars2.githubusercontent.com/u/146085936" width="100px;" alt="Leuneg"/>
+      <a href="https://github.com/Kimlaewon">
+        <img src="https://avatars2.githubusercontent.com/u/146085936" width="100px;" alt="Kimlaewon"/>
       </a>
       <br />
-      <a href="https://github.com/Leuneg">Leuneg</a>
+      <a href="https://github.com/Kimlaewon">Kim-Laewon</a>
     </td>
     <td align="center">
       <a href="https://github.com/Jigwan0408">

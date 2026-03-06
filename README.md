@@ -137,18 +137,18 @@
       <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
-      <a href="https://github.com/BlackLibraryDev">
-        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="BlackLibraryDev"/>
-      </a>
-      <br />
-      <a href="https://github.com/BlackLibraryDev">Shadowstar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
       <br />
       <a href="https://github.com/apersomany">Donghyun Shin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BlackLibraryDev">
+        <img src="https://avatars2.githubusercontent.com/u/120664768" width="100px;" alt="BlackLibraryDev"/>
+      </a>
+      <br />
+      <a href="https://github.com/BlackLibraryDev">Shadowstar</a>
     </td>
     <td align="center">
       <a href="https://github.com/komushroom">

@@ -70,20 +70,20 @@
       <a href="https://github.com/snakeblanket">SnakeBlanket</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tjdrkr2580">
-        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
-      </a>
-      <br />
-      <a href="https://github.com/tjdrkr2580">김태현</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/IPECTER">
         <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
       </a>
       <br />
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tjdrkr2580">
+        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
+      </a>
+      <br />
+      <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
       <a href="https://github.com/whdbcks111">
@@ -200,13 +200,6 @@
       </a>
       <br />
       <a href="https://github.com/todayscoding">todayscoding</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kimlaewon">
-        <img src="https://avatars2.githubusercontent.com/u/146085936" width="100px;" alt="Kimlaewon"/>
-      </a>
-      <br />
-      <a href="https://github.com/Kimlaewon">Kim-Laewon</a>
     </td>
     <td align="center">
       <a href="https://github.com/Jigwan0408">

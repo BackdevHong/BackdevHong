@@ -195,11 +195,11 @@
       <a href="https://github.com/OOGIN">CBKyun</a>
     </td>
     <td align="center">
-      <a href="https://github.com/todayscoding">
-        <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="todayscoding"/>
+      <a href="https://github.com/Jinhyeonseo02">
+        <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="Jinhyeonseo02"/>
       </a>
       <br />
-      <a href="https://github.com/todayscoding">todayscoding</a>
+      <a href="https://github.com/Jinhyeonseo02">jinhyeonseo</a>
     </td>
     <td align="center">
       <a href="https://github.com/Jigwan0408">

@@ -130,18 +130,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/kcw0x466">
-        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="kcw0x466"/>
-      </a>
-      <br />
-      <a href="https://github.com/kcw0x466">Chanwook Kim</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
       </a>
       <br />
       <a href="https://github.com/apersomany">Donghyun Shin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kcw0x466">
+        <img src="https://avatars2.githubusercontent.com/u/65588301" width="100px;" alt="kcw0x466"/>
+      </a>
+      <br />
+      <a href="https://github.com/kcw0x466">Chanwook Kim</a>
     </td>
     <td align="center">
       <a href="https://github.com/BlackLibraryDev">

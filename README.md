@@ -42,6 +42,13 @@
       <a href="https://github.com/Sharlottes">Sharlottes</a>
     </td>
     <td align="center">
+      <a href="https://github.com/KIMTAEKJUN">
+        <img src="https://avatars2.githubusercontent.com/u/86834898" width="100px;" alt="KIMTAEKJUN"/>
+      </a>
+      <br />
+      <a href="https://github.com/KIMTAEKJUN">TaekJun Kim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Bruce0203">
         <img src="https://avatars2.githubusercontent.com/u/56539682" width="100px;" alt="Bruce0203"/>
       </a>
@@ -69,6 +76,8 @@
       <br />
       <a href="https://github.com/snakeblanket">SnakeBlanket</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/IPECTER">
         <img src="https://avatars2.githubusercontent.com/u/80433772" width="100px;" alt="IPECTER"/>
@@ -76,8 +85,6 @@
       <br />
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/tjdrkr2580">
         <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
@@ -120,6 +127,8 @@
       <br />
       <a href="https://github.com/qetqet910">KimHyeonMin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/kiss8981">
         <img src="https://avatars2.githubusercontent.com/u/35857297" width="100px;" alt="kiss8981"/>
@@ -127,8 +136,6 @@
       <br />
       <a href="https://github.com/kiss8981">Dohyun Kim</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/apersomany">
         <img src="https://avatars2.githubusercontent.com/u/59863085" width="100px;" alt="apersomany"/>
@@ -171,13 +178,6 @@
       <br />
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/rnlsrnlsdl">
-        <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
-      </a>
-      <br />
-      <a href="https://github.com/rnlsrnlsdl">theroundone</a>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -193,6 +193,13 @@
       </a>
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rnlsrnlsdl">
+        <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
+      </a>
+      <br />
+      <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
     <td align="center">
       <a href="https://github.com/Jinhyeonseo02">

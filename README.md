@@ -206,7 +206,7 @@
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="Jinhyeonseo02"/>
       </a>
       <br />
-      <a href="https://github.com/Jinhyeonseo02">jinhyeonseo</a>
+      <a href="https://github.com/Jinhyeonseo02">Jin hyeonseo</a>
     </td>
     <td align="center">
       <a href="https://github.com/Jigwan0408">

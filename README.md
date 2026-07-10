@@ -114,18 +114,18 @@
       <a href="https://github.com/YeopSeung04">SEUNG YEOP HAN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/superman2080">
-        <img src="https://avatars2.githubusercontent.com/u/49778969" width="100px;" alt="superman2080"/>
-      </a>
-      <br />
-      <a href="https://github.com/superman2080">김태욱</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/qetqet910">
         <img src="https://avatars2.githubusercontent.com/u/79036088" width="100px;" alt="qetqet910"/>
       </a>
       <br />
       <a href="https://github.com/qetqet910">KimHyeonMin</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/superman2080">
+        <img src="https://avatars2.githubusercontent.com/u/49778969" width="100px;" alt="superman2080"/>
+      </a>
+      <br />
+      <a href="https://github.com/superman2080">김태욱</a>
     </td>
   </tr>
   <tr>
@@ -181,18 +181,18 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/nyaon08">
-        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="nyaon08"/>
-      </a>
-      <br />
-      <a href="https://github.com/nyaon08">Nyaon</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nyaon08">
+        <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="nyaon08"/>
+      </a>
+      <br />
+      <a href="https://github.com/nyaon08">Nyaon</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

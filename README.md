@@ -93,18 +93,18 @@
       <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
-      <a href="https://github.com/minjuun05">
-        <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="minjuun05"/>
-      </a>
-      <br />
-      <a href="https://github.com/minjuun05">Minjun</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/whdbcks111">
         <img src="https://avatars2.githubusercontent.com/u/81742754" width="100px;" alt="whdbcks111"/>
       </a>
       <br />
       <a href="https://github.com/whdbcks111">화베(조유찬)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/minjuun05">
+        <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="minjuun05"/>
+      </a>
+      <br />
+      <a href="https://github.com/minjuun05">Minjun</a>
     </td>
     <td align="center">
       <a href="https://github.com/YeopSeung04">

@@ -86,18 +86,18 @@
       <a href="https://github.com/IPECTER">IPECTER 이팩터</a>
     </td>
     <td align="center">
-      <a href="https://github.com/tjdrkr2580">
-        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
-      </a>
-      <br />
-      <a href="https://github.com/tjdrkr2580">김태현</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/minjuun05">
         <img src="https://avatars2.githubusercontent.com/u/84955607" width="100px;" alt="minjuun05"/>
       </a>
       <br />
       <a href="https://github.com/minjuun05">Minjun</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tjdrkr2580">
+        <img src="https://avatars2.githubusercontent.com/u/97386129" width="100px;" alt="tjdrkr2580"/>
+      </a>
+      <br />
+      <a href="https://github.com/tjdrkr2580">김태현</a>
     </td>
     <td align="center">
       <a href="https://github.com/whdbcks111">

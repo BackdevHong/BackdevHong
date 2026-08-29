@@ -195,6 +195,13 @@
       <a href="https://github.com/nyaon08">Nyaon</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ym2413-opll">
+        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="ym2413-opll"/>
+      </a>
+      <br />
+      <a href="https://github.com/ym2413-opll">Sekibanki</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/rnlsrnlsdl">
         <img src="https://avatars2.githubusercontent.com/u/101311563" width="100px;" alt="rnlsrnlsdl"/>
       </a>
@@ -214,13 +221,6 @@
       </a>
       <br />
       <a href="https://github.com/Jigwan0408">Jake48</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ym2413-opll">
-        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="ym2413-opll"/>
-      </a>
-      <br />
-      <a href="https://github.com/ym2413-opll">Sekibanki</a>
     </td>
     <td align="center">
       <a href="https://github.com/HyejiShin-20">

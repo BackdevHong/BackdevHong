@@ -172,20 +172,20 @@
       <a href="https://github.com/shihyeon">Seungyeop Lee</a>
     </td>
     <td align="center">
-      <a href="https://github.com/829520k">
-        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
-      </a>
-      <br />
-      <a href="https://github.com/829520k">Choiseokjae</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/OOGIN">
         <img src="https://avatars2.githubusercontent.com/u/95895007" width="100px;" alt="OOGIN"/>
       </a>
       <br />
       <a href="https://github.com/OOGIN">CBKyun</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/829520k">
+        <img src="https://avatars2.githubusercontent.com/u/105596832" width="100px;" alt="829520k"/>
+      </a>
+      <br />
+      <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
       <a href="https://github.com/nyaon08">

@@ -209,6 +209,13 @@
       <a href="https://github.com/rnlsrnlsdl">theroundone</a>
     </td>
     <td align="center">
+      <a href="https://github.com/kim-benedict">
+        <img src="https://avatars2.githubusercontent.com/u/213380729" width="100px;" alt="kim-benedict"/>
+      </a>
+      <br />
+      <a href="https://github.com/kim-benedict">김태현</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Jinhyeonseo02">
         <img src="https://avatars2.githubusercontent.com/u/78680425" width="100px;" alt="Jinhyeonseo02"/>
       </a>
@@ -222,6 +229,8 @@
       <br />
       <a href="https://github.com/Jigwan0408">Jake48</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/HyejiShin-20">
         <img src="https://avatars2.githubusercontent.com/u/74303368" width="100px;" alt="HyejiShin-20"/>

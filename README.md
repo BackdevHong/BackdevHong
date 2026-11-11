@@ -188,6 +188,13 @@
       <a href="https://github.com/829520k">Choiseokjae</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ym2413-opll">
+        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="ym2413-opll"/>
+      </a>
+      <br />
+      <a href="https://github.com/ym2413-opll">Sekibanki</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/nyaon08">
         <img src="https://avatars2.githubusercontent.com/u/126620644" width="100px;" alt="nyaon08"/>
       </a>
@@ -200,13 +207,6 @@
       </a>
       <br />
       <a href="https://github.com/kim-benedict">김태현</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ym2413-opll">
-        <img src="https://avatars2.githubusercontent.com/u/56759376" width="100px;" alt="ym2413-opll"/>
-      </a>
-      <br />
-      <a href="https://github.com/ym2413-opll">Sekibanki</a>
     </td>
     <td align="center">
       <a href="https://github.com/rnlsrnlsdl">

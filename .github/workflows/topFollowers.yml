@@ -10,7 +10,7 @@ on:
 
 jobs:
   top-followers:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v7
       - name: Setup python
